@@ -1,0 +1,50 @@
+C:\Users\User\source\repos\UCL 2015\bin\Debug\net6.0-windows\UCL 2015.exe
+C:\Users\User\source\repos\UCL 2015\bin\Debug\net6.0-windows\UCL 2015.dll.config
+C:\Users\User\source\repos\UCL 2015\bin\Debug\net6.0-windows\UCL 2015.deps.json
+C:\Users\User\source\repos\UCL 2015\bin\Debug\net6.0-windows\UCL 2015.runtimeconfig.json
+C:\Users\User\source\repos\UCL 2015\bin\Debug\net6.0-windows\UCL 2015.dll
+C:\Users\User\source\repos\UCL 2015\bin\Debug\net6.0-windows\UCL 2015.pdb
+C:\Users\User\source\repos\UCL 2015\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\source\repos\UCL 2015\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\source\repos\UCL 2015\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\source\repos\UCL 2015\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\source\repos\UCL 2015\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\UCL 2015\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\UCL 2015\obj\Debug\net6.0-windows\UCL 2015.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\UCL 2015\obj\Debug\net6.0-windows\UCL_2015.Form1.resources
+C:\Users\User\source\repos\UCL 2015\obj\Debug\net6.0-windows\UCL 2015.csproj.GenerateResource.cache
+C:\Users\User\source\repos\UCL 2015\obj\Debug\net6.0-windows\UCL 2015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\UCL 2015\obj\Debug\net6.0-windows\UCL 2015.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UCL 2015\obj\Debug\net6.0-windows\UCL 2015.AssemblyInfo.cs
+C:\Users\User\source\repos\UCL 2015\obj\Debug\net6.0-windows\UCL 2015.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UCL 2015\obj\Debug\net6.0-windows\UCL 2015.csproj.CopyComplete
+C:\Users\User\source\repos\UCL 2015\obj\Debug\net6.0-windows\UCL 2015.dll
+C:\Users\User\source\repos\UCL 2015\obj\Debug\net6.0-windows\refint\UCL 2015.dll
+C:\Users\User\source\repos\UCL 2015\obj\Debug\net6.0-windows\UCL 2015.pdb
+C:\Users\User\source\repos\UCL 2015\obj\Debug\net6.0-windows\UCL 2015.genruntimeconfig.cache
+C:\Users\User\source\repos\UCL 2015\obj\Debug\net6.0-windows\ref\UCL 2015.dll
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\bin\Debug\net6.0-windows\UCL 2015.exe
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\bin\Debug\net6.0-windows\UCL 2015.dll.config
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\bin\Debug\net6.0-windows\UCL 2015.deps.json
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\bin\Debug\net6.0-windows\UCL 2015.runtimeconfig.json
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\bin\Debug\net6.0-windows\UCL 2015.dll
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\bin\Debug\net6.0-windows\UCL 2015.pdb
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\obj\Debug\net6.0-windows\UCL 2015.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\obj\Debug\net6.0-windows\UCL_2015.Form1.resources
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\obj\Debug\net6.0-windows\UCL 2015.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\obj\Debug\net6.0-windows\UCL 2015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\obj\Debug\net6.0-windows\UCL 2015.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\obj\Debug\net6.0-windows\UCL 2015.AssemblyInfo.cs
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\obj\Debug\net6.0-windows\UCL 2015.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\obj\Debug\net6.0-windows\UCL 2015.csproj.CopyComplete
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\obj\Debug\net6.0-windows\UCL 2015.dll
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\obj\Debug\net6.0-windows\refint\UCL 2015.dll
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\obj\Debug\net6.0-windows\UCL 2015.pdb
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\obj\Debug\net6.0-windows\UCL 2015.genruntimeconfig.cache
+C:\Users\User\Desktop\Project\UCL 2015 _ Visual Studio\obj\Debug\net6.0-windows\ref\UCL 2015.dll
